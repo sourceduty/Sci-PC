@@ -44,6 +44,10 @@ Moreover, science PCs are built with scalability and future-proofing in mind. Th
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Hardware Simulator](https://github.com/sourceduty/Hardware_Simulator)
+<br>
+[Raspberry Pi](https://github.com/sourceduty/Raspberry_Pi)
+<br>
+[Sugar Sensor](https://github.com/sourceduty/Sugar_Sensor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

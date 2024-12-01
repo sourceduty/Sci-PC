@@ -11,6 +11,8 @@ In addition to assisting with hardware selection, Sci-PC supports users through 
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Hardware Simulator](https://github.com/sourceduty/Hardware_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

@@ -1,4 +1,4 @@
-![SCI-PC](https://github.com/user-attachments/assets/1d7d6187-2b74-40ee-b995-74d0b92855c7)
+![Sci-PC](https://github.com/user-attachments/assets/1cc22850-f459-4eb2-b4a7-7da47a4cd010)
 
 > Plan purchasing, assembling, and operating scientific computer hardware.
 #

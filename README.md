@@ -7,6 +7,12 @@
 
 In addition to assisting with hardware selection, Sci-PC supports users through the building and maintenance phases of their computer systems. It provides step-by-step guidance on assembling components, including precautions for handling sensitive parts, cable management tips, and test boot procedures. Sci-PC also offers advice on optimizing system performance post-assembly by guiding users through operating system setup, driver installations, and performance tuning. For long-term reliability, it provides insights into system monitoring, troubleshooting hardware and software issues, and maintaining data security through backup strategies. This comprehensive approach makes Sci-PC an invaluable resource for building and sustaining cutting-edge systems that meet the demands of scientific computing.
 
+```
+Print a cheat sheet for sci-pc building.
+Build a sci-pc.
+Plan purchasing, assembling, and operating scientific computer hardware.
+```
+
 #
 ### Related Links
 
